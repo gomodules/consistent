@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/buraksezer/consistent"
+	"gomodules.xyz/consistent"
 	"github.com/cespare/xxhash"
 )
 
